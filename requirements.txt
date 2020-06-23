@@ -10,8 +10,6 @@ Flask-Migrate==2.5.3
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.4.3
 gunicorn==20.0.4
-ipython @ file:///C:/ci/ipython_1592330400575/work
-ipython-genutils==0.2.0
 itsdangerous==1.1.0
 jedi @ file:///C:/ci/jedi_1592833832328/work
 Jinja2==2.11.2
