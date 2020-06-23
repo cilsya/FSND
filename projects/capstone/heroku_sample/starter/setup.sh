@@ -1,0 +1,1 @@
+export DATABASE_URL=postgresql://postgres:abcd1234@localhost:5432/herokusample
